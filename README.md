@@ -39,6 +39,9 @@ The application follows a layered architecture:
 ## Running the Application Locally
 <img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/a3ad318c-3717-451a-b12f-bbbea75bd81c" />
 
+
+<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/c269b1de-944b-4f23-9b8b-50b4f54d7f60" />
+
 ### Prerequisites
 - Java 17 or later
 - Git
